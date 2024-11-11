@@ -1,0 +1,4 @@
+code/.pgpass
+code/.env
+code/alquipiso/__pycache__/*
+.venv/*
