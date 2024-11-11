@@ -1,4 +1,5 @@
 code/.pgpass
 code/.env
 code/alquipiso/__pycache__/*
+code/pisos/__pycache__/*
 .venv/*
